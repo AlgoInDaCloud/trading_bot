@@ -1,1 +1,5 @@
-
+**/app/params/
+**/app/olds/
+**/app/logs/
+**/app/datas/
+/.env
